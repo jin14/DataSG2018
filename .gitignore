@@ -1,0 +1,5 @@
+# Data Ignores #
+data/
+
+# Ipython Ignores #
+.ipynb_checkpoints/
