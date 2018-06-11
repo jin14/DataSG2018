@@ -3,3 +3,6 @@ data/
 
 # Ipython Ignores #
 .ipynb_checkpoints/
+
+# Submission Ignores #
+submission/
